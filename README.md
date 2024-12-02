@@ -9,6 +9,5 @@ Mechanics:
 - Create a Group Chat
 
 ## Demo Video
-<video width="320" height="240" controls>
-  <source src="Media/A2_Video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/5f56bd4e-0f31-41da-b55c-6c42ee2360e5
+
