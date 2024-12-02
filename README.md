@@ -7,3 +7,6 @@ Mechanics:
 - Switch between Chats + Viewing of ChatLogs
 - Add a Private DM (Whisper)
 - Create a Group Chat
+
+## Demo Video
+![](Media/A2_Video.mp4)
