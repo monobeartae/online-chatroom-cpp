@@ -1,0 +1,8 @@
+﻿  ChatUI.cpp
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Client\ChatInfo.h(99,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Client\ChatUI.cpp(49,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Client\ChatUI.cpp(50,21): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Client\ChatUI.cpp(169,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Client\ChatUI.cpp(309,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Client\ChatUI.cpp(314,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Exercise_02.vcxproj -> C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Client\x64\Debug\Exercise_02.exe

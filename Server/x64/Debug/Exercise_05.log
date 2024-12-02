@@ -1,0 +1,46 @@
+﻿  IOMultiplexing_Server_Whisper.cpp
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(19,54): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(19,109): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(19,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(27,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(34,45): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(37,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(125,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(125,13): message : consider using '%lld' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(125,13): message : consider using '%Id' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(125,13): message : consider using '%I64d' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(136,14): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(136,14): message : consider using '%lld' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(136,14): message : consider using '%Id' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(136,14): message : consider using '%I64d' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(137,53): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(145,14): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(145,14): message : consider using '%lld' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(145,14): message : consider using '%Id' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(145,14): message : consider using '%I64d' in the format string
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(146,53): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(165,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(175,73): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\IOMultiplexing_Server_Whisper.cpp(181,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PacketManager.cpp
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(24,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(38,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(56,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(67,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(83,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(82,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(90,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(89,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(102,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(134,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(164,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(204,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(212,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(213,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(220,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(235,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(234,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\PacketManager.cpp(25): warning C4172: returning address of local variable or temporary: toSend
+  Exercise_05.vcxproj -> C:\Users\guanq\OneDrive\Documents\GDT\Y2S2\multiplayer\MTLGP_A2\Server\x64\Debug\Exercise_05.exe
